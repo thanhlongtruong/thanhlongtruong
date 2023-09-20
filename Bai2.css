@@ -1,0 +1,52 @@
+#page{
+    width:760px;
+    margin:0px auto
+    }
+    #mainmenu{
+    height: 50px;
+    padding:1px;
+    padding-left:25px;
+    }
+    #header{
+    height:150px;
+    background:url(https://www.hakkiceylan.com/images/css-baliklama12.jpg);
+    background-size: 760px;
+    }
+    h1 {
+    margin: 0;
+    padding: 0;
+    float: right;
+    margin-top: 57px;
+    padding-right: 18px;
+    color:white;
+    }
+    span{
+    color:rgb(150, 204, 69);
+    }
+    #content{
+    margin-right:280px;
+    padding-left:30px; 
+    }
+    #sidebar{
+    float:right;
+    width:280px;
+    padding-left:30px;
+    }
+    #footer{
+    clear:both;
+    width:760px;
+    height:70px;
+    }
+    .header{
+    font-size: 23px;
+    }
+    .contact{
+    padding-left: 60px;
+    }
+    #colorcontent2{
+    color:hsl(6, 40%, 54%);
+    }
+    .nav{
+    word-spacing:30px;
+    }
+    
