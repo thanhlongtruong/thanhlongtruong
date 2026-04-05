@@ -21,7 +21,7 @@
 _A role-based management system for university internships._
 
 - **Tech:** Next.js 15, Shadcn/ui, TanStack Query, TanStack Table, Edge Store, JWT.
-- **Features:** File upload system with Edge Store, role-based authorization (Student/Teacher), data tables.
+- **Features:** File upload system with Edge Store, role-based authorization (Student/Instructors/ Faculty heads), data tables.
 - JWT authentication & role authorization
 
 - 🔗 [Live Demo](https://internship-management-five.vercel.app/) | [GitHub](https://github.com/thanhlongtruong/internship-management) | [More](https://portfolio-thanhlong.vercel.app/en/projects/internship_management)
