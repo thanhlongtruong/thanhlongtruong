@@ -5,6 +5,13 @@
 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-blue?style=for-the-badge&logo=external-link&logoColor=white)](https://portfolio-thanhlong.vercel.app/en)
 
+## 🔭 Currently Working On
+
+- 🚀 **Seeking Opportunities:** I'm a recent graduate looking for a **Frontend/Full-stack Intern or Fresher** position.
+- 🧩 **Algorithm Mastery:** Solving problems on **LeetCode** daily to sharpen problem-solving skills and data structures knowledge.
+- **English Proficiency:** I am actively improving my English communication skills to work effectively.
+- 💻 **Upgrading Portfolio:** Implementing advanced **i18n** and **Next.js 16** features into my personal site.
+
 ## 🚀 Featured Projects
 
 ### 🖥️ Web Development
