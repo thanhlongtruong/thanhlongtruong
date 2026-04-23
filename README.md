@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Thanh Long (Fruit).
+## 👋 Hi, I'm Thanh Long.
 
 > I enjoy building complete web applications from frontend UI to backend API and database.  
 > My main stack includes React, Next.js, Node.js, MongoDB, TailwindCSS and Flutter.
